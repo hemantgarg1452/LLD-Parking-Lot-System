@@ -13,7 +13,7 @@
 // ParkingLot, Floor, ParkingSpot, Vehicle, Ticket, 
 // EntryPanel, ExitPanel, Payment
 
-// Step 3 & 5: Implementation
+// Step 3 & 5- Implementation
 
 // ──── Enums ────
 public enum VehicleType {
