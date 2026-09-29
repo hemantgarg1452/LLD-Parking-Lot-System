@@ -321,7 +321,6 @@ public class ParkingLotDemo {
                 new HourlyPricingStrategy());
 
         // Add spots to floors (normally done during initialization)
-        // ...
 
         // Car enters
         Vehicle car = new Car("KA-01-AB-1234");
