@@ -1,6 +1,4 @@
-// ═══════════════════════════════════════════════════
-// PARKING LOT — Complete LLD Solution
-// ═══════════════════════════════════════════════════
+// PARKING LOT - Complete LLD Solution
 
 // Step 1: Requirements
 // - Multi-floor parking lot
